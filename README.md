@@ -1,4 +1,4 @@
-### This project was done with a hard stop 4 hour time limit..
+### This project was done with a hard stop 4 hour time limit
 
 ### Objective
 
