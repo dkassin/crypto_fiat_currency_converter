@@ -1,3 +1,5 @@
+### This project was done with a hard stop 4 hour time limit..
+
 ### Objective
 
 Using Python and any framework, your task is to build a currency conversion service that includes FIAT and cryptocurrencies.
